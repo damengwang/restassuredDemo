@@ -6,7 +6,7 @@ import  static  org.hamcrest.Matchers.*;
 
 
 
-public class Xueqiu {
+public class XueqiuTest {
 
     @Test
     public void testSearch(){
