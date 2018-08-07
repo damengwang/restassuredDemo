@@ -13,7 +13,7 @@ import  static  org.hamcrest.Matchers.*;
 
 
 @RunWith(Parameterized.class)
-public class testStocks  extends  StockBase{
+public class TestStocks extends  StockBase{
     @Parameterized.Parameters
     public  static List<Object[]> data(){
         return Arrays.asList(new Object[] []{
