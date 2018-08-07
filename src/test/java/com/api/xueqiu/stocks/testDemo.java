@@ -1,3 +1,5 @@
+package com.api.xueqiu.stocks;
+
 import org.junit.Test;
 import  static  io.restassured.RestAssured.*;
 import  static  io.restassured.matcher.RestAssuredMatchers.*;
